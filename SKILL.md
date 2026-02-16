@@ -1,7 +1,8 @@
 ---
 name: dusty-drawer-test
-description: Reviews research project proposals from the viewpoint of impact. Use when evaluating whether to pursue a project, comparing project ideas, or assessing if a project is likely to end up "in a dusty drawer" vs. creating real change. Applies a structured impact framework with transparent reasoning at each step.
-version: 1.0
+description: "Reviews research project proposals from the viewpoint of impact. Use when evaluating whether to pursue a project, comparing project ideas, or assessing if a project is likely to end up in a dusty drawer vs. creating real change. Applies a structured impact framework with transparent reasoning at each step."
+metadata:
+  version: "1.0"
 ---
 
 # The Dusty Drawer Test
