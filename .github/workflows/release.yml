@@ -1,0 +1,29 @@
+name: Package Skill
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Package skill as ZIP
+        run: |
+          SKILL_NAME="${{ github.event.repository.name }}"
+          mkdir -p "$SKILL_NAME"
+          cp -r SKILL.md LICENSE README.md docs examples "$SKILL_NAME/"
+          zip -r "${SKILL_NAME}.zip" "$SKILL_NAME"
+
+      - name: Upload ZIP to release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          SKILL_NAME="${{ github.event.repository.name }}"
+          gh release upload "${{ github.event.release.tag_name }}" "${SKILL_NAME}.zip" --clobber
