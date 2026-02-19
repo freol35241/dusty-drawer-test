@@ -5,9 +5,9 @@
 
 ## Introduction
 
-How do you know if a research project is worth pursuing? Most project selection happens implicitly: gut feelings, path dependence, what's fundable. This document makes the reasoning explicit.
+Most research ends up in a drawer. It ships, maybe gets cited, then fades -- never changing what anyone actually does. The problem isn't quality; it's that no one asked whether the work would reach anyone who'd act on it.
 
-We offer two things: a model of what impact is (Part I), and advice for navigating the pursuit of it (Part II). These combine into an evaluation framework (Part III) and guidance on applying it honestly (Part IV).
+This document makes that reasoning explicit. Part I models what impact is. Part II addresses the psychology of pursuing it. These combine into an evaluation framework (Part III) and guidance on applying it honestly (Part IV).
 
 ---
 
@@ -21,9 +21,9 @@ Impact means *additional* change: what happened that wouldn't have happened othe
 
 The question isn't "did good things happen?" but "did good things happen *because of this work*?" If the outcome would have occurred anyway, through other actors or other paths, then the counterfactual impact is zero regardless of quality.
 
-GiveWell operationalizes this well. They compare programs not against doing nothing, but against the next-best use of those resources. The marginal contribution matters.
+GiveWell captures this by comparing programs against the next-best use of those resources.
 
-So when evaluating a project, ask: would this change happen without it?
+So the first test of impact is additionality: would this change happen without you? But even genuinely additional work can fail to matter -- if it produces no practical consequence.
 
 ---
 
@@ -31,11 +31,11 @@ So when evaluating a project, ask: would this change happen without it?
 
 The meaning of an idea lies in its practical consequences.
 
-William James argued that if two ideas produce identical practical effects, they are the same idea. An idea that changes nothing is not false; it's empty.
+William James argued that if two ideas produce identical practical effects, they are the same idea -- not false, but empty.
 
-John Dewey extended this: knowledge is a tool for navigating problems. Ideas are instruments, and their value lies in what they enable.
+Dewey extended this: ideas are instruments, and their value lies in what they enable.
 
-A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence.
+A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence -- but where you intervene in a system determines how much consequence is possible.
 
 ---
 
@@ -50,9 +50,7 @@ Donella Meadows identified leverage points in systems, ranked from shallow to de
 | Parameters, constants | Goals, paradigms |
 | Easy to change, limited effect | Transformative but hard to execute |
 
-The paradox: the most powerful interventions are the least controllable.
-
-There's an inverse relationship between impact magnitude and personal control. You can ship a paper (high control, limited impact). You cannot make an industry change practice (low control, high impact).
+There's an inverse relationship between impact magnitude and personal control. You can ship a paper (high control, limited impact). You cannot make an industry change practice (low control, high impact). This tension raises a strategic question: given finite effort, which problems repay one more person working on them?
 
 ---
 
@@ -67,9 +65,7 @@ The Effective Altruism community developed the ITN framework:
 
 Marginal impact ≈ Importance × Tractability × Neglectedness
 
-A crowded field has diminishing returns. The first researcher on a problem contributes more than the hundredth.
-
-"Is this important?" is the wrong question. The right question: "What's the value of *one more* person working on it?"
+A crowded field has diminishing returns. "Is this important?" is the wrong question. The right question: "What's the value of *one more* person working on it?" Once you've identified a neglected, high-leverage problem, the remaining challenge is causal: how does your specific output actually produce change?
 
 ---
 
@@ -85,7 +81,7 @@ A Theory of Change makes explicit:
 
 Each link in the chain is an assumption that can be examined and tested. "If we publish this analysis, then decision-makers will read it. If they read it, they will understand it. If they understand it, they will act on it." Each step can fail.
 
-This differs from the Impact Ladder, which shows *levels* of impact. Theory of Change shows *mechanisms*: what has to be true for your work to cause change.
+A Theory of Change shows *mechanisms* -- what has to be true for your work to cause change. Later, the framework will also distinguish *levels* of impact; the two lenses are complementary but distinct.
 
 Trace the causal path from your output to the impact you claim. Name each assumption. The more links, the more fragile the chain.
 
@@ -93,19 +89,19 @@ Trace the causal path from your output to the impact you claim. Name each assump
 
 # Part II: The Human Side
 
+Part I built toward a difficult conclusion: the work most worth doing is the work you control least. You should aim for systemic change, but you cannot make it happen. This tension isn't just strategic -- it's personal. Left unmanaged, it produces paralysis or cynicism. Part II offers two psychological disciplines for navigating it.
+
 ---
 
 ## 6. Task Separation
 
 Distinguish what you control from what others control, and relate to each differently.
 
-Part I established that higher impact means less control. This is structural. But how do you *respond* to that fact?
-
 Alfred Adler's psychology offers a discipline:
 - **Your task:** What you control (quality of work, shipping, your own learning)
 - **Others' task:** Their responses (engagement, adoption, citation)
 
-The Stoics made a parallel distinction: what is "up to us" versus what is not. Confusing the two causes suffering. You feel responsible for things you cannot control.
+The Stoics made a parallel distinction: what is "up to us" versus what is not. Confusing the two causes suffering.
 
 Do your task well; release attachment to others' tasks. This isn't indifference. It's directing energy where it makes a difference, and not suffering over what it can't affect.
 
@@ -115,9 +111,9 @@ Do your task well; release attachment to others' tasks. This isn't indifference.
 
 Long feedback loops erode motivation and prevent course correction.
 
-Albert Bandura's research shows that self-efficacy (belief that your actions produce results) requires feedback. Without evidence that actions matter, self-efficacy erodes toward learned helplessness.
+Bandura showed that self-efficacy -- belief that your actions produce results -- requires feedback. Without it, self-efficacy erodes toward learned helplessness.
 
-Research often has brutal feedback loops. You may not know for years whether work mattered. This is psychologically costly and prevents adaptation.
+Research often has brutal feedback loops: you may not know for years whether work mattered, making course correction impossible.
 
 Design for intermediate feedback. Maintain work at multiple time horizons. Short-loop work sustains the motivation needed for long-term bets.
 
@@ -125,13 +121,15 @@ Design for intermediate feedback. Maintain work at multiple time horizons. Short
 
 # Part III: The Framework
 
+Parts I and II supplied the foundations; this part assembles them into a usable tool. First, five building blocks -- a core definition of impact, a ladder of impact levels, the carrier problem, indirection, and pull vs. push. Then, the Seven Questions that operationalize them into a scoring rubric.
+
 ---
 
 ## Core Definition
 
 **Impact = someone did something they otherwise wouldn't have.**
 
-This combines counterfactual thinking with pragmatism. It centers on *change* rather than output, and on *additional* change rather than change that would have happened anyway.
+This centers on *change* rather than output, and on *additional* change rather than change that would have happened anyway.
 
 ---
 
@@ -150,23 +148,21 @@ Impact isn't binary. It comes in levels, each building on the previous:
 | 7. Behavior change | Actions changed | Low |
 | 8. Systemic change | The system works differently | Very Low |
 
-Notice the pattern: control decreases as you climb. You fully control whether you finish. You mostly control whether you ship. After that, you're increasingly dependent on others. Task separation is the psychological response: accept this gradient rather than fight it.
+Notice the pattern: control decreases as you climb. You control whether you finish and ship; after that, you depend on others. Task separation is the psychological response: accept this gradient.
 
-Most research stalls at level 2 or 3. It ships, maybe gets some attention, then fades. The jump from "attention" to "behavior change" is where most impact dies. Understanding why requires looking at who carries work up the ladder.
+Most research stalls at level 2 or 3. The jump from "attention" to "behavior change" is where most impact dies -- which raises the question of who carries work up the ladder.
 
 ---
 
 ## The Carrier Problem
 
-Here's the uncomfortable truth: research outputs rarely reach end users directly.
-
-Between your paper, tool, or finding and the person whose behavior changes, there's usually an intermediary. Someone who reads your work, sees its value, and invests effort to translate it into action. A software developer who implements your algorithm. A consultant who applies your framework. A product manager who builds on your research.
+Research outputs rarely reach end users directly. Between your paper and the person whose behavior changes, there's usually an intermediary -- someone who reads your work and invests effort to translate it into action. A developer who implements your algorithm. A consultant who applies your framework.
 
 This intermediary is the *carrier*. They carry your work up the ladder from "shipped" to "used."
 
-If you can't name your carrier, your work probably stops at level 2. You ship it, maybe some people see it, but no one picks it up and does anything with it. It gathers dust.
+If you can't name your carrier, your work probably stops at level 2. It gathers dust.
 
-"Industry will benefit" is not a carrier. "Researchers in this field" is not a carrier. These are categories. A carrier is a specific person or organization who will take your output and act on it.
+"Industry will benefit" is not a carrier. "Researchers in this field" is not a carrier. These are categories. A carrier is specific: a person or organization who will take your output and act on it.
 
 ---
 
@@ -182,7 +178,7 @@ Between your output and the change you claim, count the steps.
 
 Each step of indirection is a point of fragility. The more steps, the less likely impact arrives. This isn't pessimism; it's accounting.
 
-When you describe the change your project will create, count the steps honestly. "Operators will make better decisions" means nothing until you specify: are you building the decision support tool, or writing a paper that someone might read and then build something?
+When you describe the change your project will create, count the steps honestly. Are you building the decision support tool, or writing a paper that someone might read and then build something?
 
 ---
 
@@ -194,36 +190,36 @@ When you describe the change your project will create, count the steps honestly.
 | **Revealed** | No one asked, but they'll recognize value | Medium |
 | **Pushed** | You made it, hope someone cares | High |
 
-What creates pull: pain, money, obligation, community. Someone has a problem and is actively looking for solutions. They'll invest effort to adopt your work because they need it.
+What creates pull: pain, money, obligation, community. Someone has a problem and is actively looking for solutions.
 
 Revealed work is trickier. No one asked for it, but when they see it, they recognize its value. The risk is that "they'll recognize value" is often wishful thinking. Revealed work succeeds when it discloses something true that others can verify. It fails when it rests on "they *should* care."
 
-Pushed work is the danger zone. You made something, you believe it's valuable, and you're hoping someone will agree. Sometimes they do. Usually they don't. The drawer is full of pushed work.
+Pushed work is the danger zone. You made something and you're hoping someone will agree it's valuable. Sometimes they do. Usually they don't. The drawer is full of pushed work.
 
 ---
 
 ## The Seven Questions
 
-The framework asks seven questions, each grounded in the foundations from Parts I and II.
+The concepts above -- carriers, indirection, pull -- identify the forces that determine whether work reaches anyone. The seven questions below turn those concepts into a structured assessment. Each question targets a specific failure mode; together, they force you to articulate a complete theory of how your project creates change.
 
 ### 1. Who will carry this up the ladder?
 
 *Foundation: Counterfactual thinking*
 
-Not "who benefits?" but "who will take your output and do something with it?" The carrier is the person who bridges the gap between your work and the world. Without them, your work sits at level 2.
+Not "who benefits?" but "who will take your output and do something with it?" Without a carrier, your work sits at level 2.
 
 Scoring:
 - 0: Cannot identify a concrete carrier; relying on "someone will find this useful"
 - 1: Can identify categories or types (e.g., "software developers," "consultants") but no specific names or relationships
 - 2: Can name specific people or organizations who will carry this forward, with existing relationship or clear path to one
 
-If you score 0 here, stop and reconsider. Either find a carrier or reframe the project as capability-building for yourself rather than impact-seeking.
+If you score 0 here, either find a carrier or reframe the project as capability-building.
 
 ### 2. What will they do differently, and how direct is the path?
 
 *Foundation: Pragmatism*
 
-Can you describe a concrete, observable change? Not "better understanding" but "they will choose A over B." Not "improved decisions" but "they will route ships differently."
+Can you describe a concrete, observable change? Not "better understanding" but "they will route ships differently."
 
 Then count the steps of indirection between your output and that change. Each step is fragility.
 
@@ -251,7 +247,7 @@ Scoring:
 
 If ten other teams could do this equally well, your marginal contribution is low. What's your specific advantage? Domain expertise, technical skills, access to data, relationships with potential carriers?
 
-This isn't about ego. It's about efficient allocation of effort. If you have no particular advantage, consider whether your time is better spent elsewhere.
+This isn't about ego; it's about efficient allocation. If you have no particular advantage, your time may be better spent elsewhere.
 
 Scoring:
 - 0: No particular advantage; others equally positioned
@@ -262,7 +258,7 @@ Scoring:
 
 Not all impact is positive. Trace the path from your output to its ultimate effects. Who benefits? Who might be harmed? What's the net effect?
 
-This question also catches projects that are technically successful but valueless. You can ship something that works, gets adopted, changes behavior, and still leaves the world no better. That's not impact worth pursuing.
+This also catches projects that are technically successful but valueless -- adopted and used, yet leaving the world no better.
 
 Scoring:
 - 0: Neutral, extractive, or potentially harmful
@@ -286,7 +282,7 @@ Projects with long feedback loops aren't necessarily bad, but they're psychologi
 
 *Foundation: Task separation*
 
-Separate your task from others' tasks. You control the quality of your work, whether you ship, what you learn. You don't control whether others engage, adopt, cite, or act.
+You control the quality of your work, whether you ship, what you learn. You don't control whether others engage, adopt, cite, or act.
 
 Scoring:
 - 0: Success depends entirely on others' responses
@@ -321,17 +317,17 @@ After scoring, classify on two dimensions:
 
 # Part IV: Applying the Framework
 
+Any scoring system invites misuse. Before you apply the framework above, two warnings about the limits of structured judgment.
+
 ---
 
 ## Goodhart's Law
 
 Charles Goodhart observed: "When a measure becomes a target, it ceases to be a good measure."
 
-Once people know they're measured on X, they optimize for X, including through means that undermine what X was meant to capture.
+Once people are measured on X, they optimize for X -- including through means that undermine what X was meant to capture.
 
-This framework is not immune. The scores can become targets. You might find yourself adjusting project framing to score higher rather than to improve the project.
-
-Notice when this happens. The goal is honest assessment, not high numbers. If you're gaming the rubric, step back.
+This framework is not immune. You might adjust project framing to score higher rather than to improve the project. The goal is honest assessment, not high numbers. If you're gaming the rubric, step back.
 
 ---
 
@@ -343,7 +339,7 @@ You don't *know* who will act differently; you're predicting. You don't *know* t
 
 The scores (0/1/2) feel precise but aren't. They're shorthand for "weak / moderate / strong," forcing a judgment rather than measuring a quantity.
 
-Hold conclusions loosely. A score of 11/14 doesn't mean "good project." It means "based on current guesses, this looks promising." New information should update your assessment. Treat the framework as a tool for structured thinking, not a source of certainty.
+Hold conclusions loosely. A score of 11/14 means "based on current guesses, this looks promising" -- not "good project." New information should update your assessment.
 
 ---
 
