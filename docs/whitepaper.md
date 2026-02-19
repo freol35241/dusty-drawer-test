@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Most research ends up in a drawer. It ships, maybe gets cited, then fades -- never changing what anyone actually does. The problem isn't quality; it's that no one asked whether the work would reach anyone who'd act on it.
+Most research ends up in a drawer. It ships, maybe gets cited, then fades, never changing what anyone actually does. The problem isn't quality; it's that no one asked whether the work would reach anyone who'd act on it.
 
 This document makes that reasoning explicit. Part I models what impact is. Part II addresses the psychology of pursuing it. These combine into an evaluation framework (Part III) and guidance on applying it honestly (Part IV).
 
@@ -23,7 +23,7 @@ The question isn't "did good things happen?" but "did good things happen *becaus
 
 GiveWell captures this by comparing programs against the next-best use of those resources.
 
-So the first test of impact is additionality: would this change happen without you? But even genuinely additional work can fail to matter -- if it produces no practical consequence.
+So the first test of impact is additionality: would this change happen without you? But even genuinely additional work can fail to matter if it produces no practical consequence.
 
 ---
 
@@ -31,11 +31,11 @@ So the first test of impact is additionality: would this change happen without y
 
 The meaning of an idea lies in its practical consequences.
 
-William James argued that if two ideas produce identical practical effects, they are the same idea -- not false, but empty.
+William James argued that if two ideas produce identical practical effects, they are the same idea, not false, but empty.
 
 Dewey extended this: ideas are instruments, and their value lies in what they enable.
 
-A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence -- but where you intervene in a system determines how much consequence is possible.
+A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence, but where you intervene in a system determines how much consequence is possible.
 
 ---
 
@@ -81,7 +81,7 @@ A Theory of Change makes explicit:
 
 Each link in the chain is an assumption that can be examined and tested. "If we publish this analysis, then decision-makers will read it. If they read it, they will understand it. If they understand it, they will act on it." Each step can fail.
 
-A Theory of Change shows *mechanisms* -- what has to be true for your work to cause change. Later, the framework will also distinguish *levels* of impact; the two lenses are complementary but distinct.
+A Theory of Change shows *mechanisms*, what has to be true for your work to cause change. Later, the framework will also distinguish *levels* of impact; the two lenses are complementary but distinct.
 
 Trace the causal path from your output to the impact you claim. Name each assumption. The more links, the more fragile the chain.
 
@@ -89,7 +89,7 @@ Trace the causal path from your output to the impact you claim. Name each assump
 
 # Part II: The Human Side
 
-Part I built toward a difficult conclusion: the work most worth doing is the work you control least. You should aim for systemic change, but you cannot make it happen. This tension isn't just strategic -- it's personal. Left unmanaged, it produces paralysis or cynicism. Part II offers two psychological disciplines for navigating it.
+Part I built toward a difficult conclusion: the work most worth doing is the work you control least. You should aim for systemic change, but you cannot make it happen. This tension isn't just strategic, it's personal. Left unmanaged, it produces paralysis or cynicism. Part II offers two psychological disciplines for navigating it.
 
 ---
 
@@ -111,7 +111,7 @@ Do your task well; release attachment to others' tasks. This isn't indifference.
 
 Long feedback loops erode motivation and prevent course correction.
 
-Bandura showed that self-efficacy -- belief that your actions produce results -- requires feedback. Without it, self-efficacy erodes toward learned helplessness.
+Bandura showed that self-efficacy, the belief that your actions produce results, requires feedback. Without it, self-efficacy erodes toward learned helplessness.
 
 Research often has brutal feedback loops: you may not know for years whether work mattered, making course correction impossible.
 
@@ -121,7 +121,7 @@ Design for intermediate feedback. Maintain work at multiple time horizons. Short
 
 # Part III: The Framework
 
-Parts I and II supplied the foundations; this part assembles them into a usable tool. First, five building blocks -- a core definition of impact, a ladder of impact levels, the carrier problem, indirection, and pull vs. push. Then, the Seven Questions that operationalize them into a scoring rubric.
+Parts I and II supplied the foundations; this part assembles them into a usable tool. First, five building blocks: a core definition of impact, a ladder of impact levels, the carrier problem, indirection, and pull vs. push. Then, the Seven Questions that operationalize them into a scoring rubric.
 
 ---
 
@@ -150,17 +150,17 @@ Impact isn't binary. It comes in levels, each building on the previous:
 
 Notice the pattern: control decreases as you climb. You control whether you finish and ship; after that, you depend on others. Task separation is the psychological response: accept this gradient.
 
-Most research stalls at level 2 or 3. The jump from "attention" to "behavior change" is where most impact dies -- which raises the question of who carries work up the ladder.
+Most research stalls at level 2 or 3. The jump from "attention" to "behavior change" is where most impact dies, which raises the question of who carries work up the ladder.
 
 ---
 
 ## The Carrier Problem
 
-Research outputs rarely reach end users directly. Between your paper and the person whose behavior changes, there's usually an intermediary -- someone who reads your work and invests effort to translate it into action. A developer who implements your algorithm. A consultant who applies your framework.
+Research outputs rarely reach end users directly. Between your paper and the person whose behavior changes, there's usually an intermediary, someone who reads your work and invests effort to translate it into action. A developer who implements your algorithm. A consultant who applies your framework.
 
 This intermediary is the *carrier*. They carry your work up the ladder from "shipped" to "used."
 
-If you can't name your carrier, your work probably stops at level 2. It gathers dust.
+If you can't name your carrier, your work probably stops at level 2. You ship it, maybe some people see it, but no one picks it up and does anything with it. It gathers dust.
 
 "Industry will benefit" is not a carrier. "Researchers in this field" is not a carrier. These are categories. A carrier is specific: a person or organization who will take your output and act on it.
 
@@ -200,7 +200,7 @@ Pushed work is the danger zone. You made something and you're hoping someone wil
 
 ## The Seven Questions
 
-The concepts above -- carriers, indirection, pull -- identify the forces that determine whether work reaches anyone. The seven questions below turn those concepts into a structured assessment. Each question targets a specific failure mode; together, they force you to articulate a complete theory of how your project creates change.
+The concepts above (carriers, indirection, pull) identify the forces that determine whether work reaches anyone. The seven questions below turn those concepts into a structured assessment. Each question targets a specific failure mode; together, they force you to articulate a complete theory of how your project creates change.
 
 ### 1. Who will carry this up the ladder?
 
@@ -213,13 +213,13 @@ Scoring:
 - 1: Can identify categories or types (e.g., "software developers," "consultants") but no specific names or relationships
 - 2: Can name specific people or organizations who will carry this forward, with existing relationship or clear path to one
 
-If you score 0 here, either find a carrier or reframe the project as capability-building.
+If you score 0 here, either find a carrier or reframe the project as capability-building for yourself rather than impact-seeking.
 
 ### 2. What will they do differently, and how direct is the path?
 
 *Foundation: Pragmatism*
 
-Can you describe a concrete, observable change? Not "better understanding" but "they will route ships differently."
+Can you describe a concrete, observable change? Not "better understanding" but "they will choose A over B." Not "improved decisions" but "they will route ships differently."
 
 Then count the steps of indirection between your output and that change. Each step is fragility.
 
@@ -258,7 +258,7 @@ Scoring:
 
 Not all impact is positive. Trace the path from your output to its ultimate effects. Who benefits? Who might be harmed? What's the net effect?
 
-This also catches projects that are technically successful but valueless -- adopted and used, yet leaving the world no better.
+This also catches projects that are technically successful but valueless, adopted and used, yet leaving the world no better. That's not impact worth pursuing.
 
 Scoring:
 - 0: Neutral, extractive, or potentially harmful
@@ -282,7 +282,7 @@ Projects with long feedback loops aren't necessarily bad, but they're psychologi
 
 *Foundation: Task separation*
 
-You control the quality of your work, whether you ship, what you learn. You don't control whether others engage, adopt, cite, or act.
+Separate your task from others' tasks. You control the quality of your work, whether you ship, what you learn. You don't control whether others engage, adopt, cite, or act.
 
 Scoring:
 - 0: Success depends entirely on others' responses
@@ -325,7 +325,7 @@ Any scoring system invites misuse. Before you apply the framework above, two war
 
 Charles Goodhart observed: "When a measure becomes a target, it ceases to be a good measure."
 
-Once people are measured on X, they optimize for X -- including through means that undermine what X was meant to capture.
+Once people are measured on X, they optimize for X, including through means that undermine what X was meant to capture.
 
 This framework is not immune. You might adjust project framing to score higher rather than to improve the project. The goal is honest assessment, not high numbers. If you're gaming the rubric, step back.
 
@@ -339,7 +339,7 @@ You don't *know* who will act differently; you're predicting. You don't *know* t
 
 The scores (0/1/2) feel precise but aren't. They're shorthand for "weak / moderate / strong," forcing a judgment rather than measuring a quantity.
 
-Hold conclusions loosely. A score of 11/14 means "based on current guesses, this looks promising" -- not "good project." New information should update your assessment.
+Hold conclusions loosely. A score of 11/14 means "based on current guesses, this looks promising," not "good project." New information should update your assessment. Treat the framework as a tool for structured thinking, not a source of certainty.
 
 ---
 
