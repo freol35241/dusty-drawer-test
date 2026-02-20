@@ -7,7 +7,7 @@
 
 Most research ends up in a drawer. It ships, maybe gets cited, then fades, never changing what anyone actually does. The problem isn't quality; it's that no one asked whether the work would reach anyone who'd act on it.
 
-This document collects the ideas we've found most useful for thinking about that problem. They come from different places: counterfactual reasoning, pragmatist philosophy, systems thinking, effective altruism, Adlerian psychology. We didn't develop a unified theory. We gathered the lenses that, together, sharpen our view of what research impact actually is and how to pursue it honestly.
+This document collects the ideas I've found most useful for thinking about that problem. They come from different places: counterfactual reasoning, pragmatist philosophy, systems thinking, effective altruism, Adlerian psychology. I didn't develop a unified theory. I gathered the lenses that, together, sharpen my view of what research impact actually is and how to pursue it honestly.
 
 Part I presents five of these ideas, each addressing a different dimension of impact. Part II covers two psychological disciplines for living with the tension impact-seeking creates. Part III assembles these into an evaluation framework. Part IV warns about its limits.
 
