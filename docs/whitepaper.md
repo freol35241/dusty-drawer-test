@@ -7,7 +7,9 @@
 
 Most research ends up in a drawer. It ships, maybe gets cited, then fades, never changing what anyone actually does. The problem isn't quality; it's that no one asked whether the work would reach anyone who'd act on it.
 
-This document makes that reasoning explicit. Part I models what impact is. Part II addresses the psychology of pursuing it. These combine into an evaluation framework (Part III) and guidance on applying it honestly (Part IV).
+This document collects the ideas we've found most useful for thinking about that problem. They come from different places: counterfactual reasoning, pragmatist philosophy, systems thinking, effective altruism, Adlerian psychology. We didn't develop a unified theory. We gathered the lenses that, together, sharpen our view of what research impact actually is and how to pursue it honestly.
+
+Part I presents five of these ideas, each addressing a different dimension of impact. Part II covers two psychological disciplines for living with the tension impact-seeking creates. Part III assembles these into an evaluation framework. Part IV warns about its limits.
 
 ---
 
@@ -23,7 +25,7 @@ The question isn't "did good things happen?" but "did good things happen *becaus
 
 GiveWell captures this by comparing programs against the next-best use of those resources.
 
-So the first test of impact is additionality: would this change happen without you? But even genuinely additional work can fail to matter if it produces no practical consequence.
+So when evaluating a project, the first question is: would this change happen without you?
 
 ---
 
@@ -35,7 +37,7 @@ William James argued that if two ideas produce identical practical effects, they
 
 Dewey extended this: ideas are instruments, and their value lies in what they enable.
 
-A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence, but where you intervene in a system determines how much consequence is possible.
+A research output that no one uses, cites, or acts upon has no meaning by pragmatist standards. Impact requires consequence.
 
 ---
 
@@ -50,7 +52,9 @@ Donella Meadows identified leverage points in systems, ranked from shallow to de
 | Parameters, constants | Goals, paradigms |
 | Easy to change, limited effect | Transformative but hard to execute |
 
-There's an inverse relationship between impact magnitude and personal control. You can ship a paper (high control, limited impact). You cannot make an industry change practice (low control, high impact). This tension raises a strategic question: given finite effort, which problems repay one more person working on them?
+The paradox: the most powerful interventions are the least controllable.
+
+There's an inverse relationship between impact magnitude and personal control. You can ship a paper (high control, limited impact). You cannot make an industry change practice (low control, high impact).
 
 ---
 
@@ -65,7 +69,9 @@ The Effective Altruism community developed the ITN framework:
 
 Marginal impact ≈ Importance × Tractability × Neglectedness
 
-A crowded field has diminishing returns. "Is this important?" is the wrong question. The right question: "What's the value of *one more* person working on it?" Once you've identified a neglected, high-leverage problem, the remaining challenge is causal: how does your specific output actually produce change?
+A crowded field has diminishing returns. The first researcher on a problem contributes more than the hundredth.
+
+"Is this important?" is the wrong question. The right question: "What's the value of *one more* person working on it?"
 
 ---
 
@@ -81,7 +87,7 @@ A Theory of Change makes explicit:
 
 Each link in the chain is an assumption that can be examined and tested. "If we publish this analysis, then decision-makers will read it. If they read it, they will understand it. If they understand it, they will act on it." Each step can fail.
 
-A Theory of Change shows *mechanisms*, what has to be true for your work to cause change. Later, the framework will also distinguish *levels* of impact; the two lenses are complementary but distinct.
+A Theory of Change shows *mechanisms*: what has to be true for your work to cause change. This is distinct from showing *levels* of impact, which the framework addresses separately.
 
 Trace the causal path from your output to the impact you claim. Name each assumption. The more links, the more fragile the chain.
 
@@ -89,13 +95,15 @@ Trace the causal path from your output to the impact you claim. Name each assump
 
 # Part II: The Human Side
 
-Part I built toward a difficult conclusion: the work most worth doing is the work you control least. You should aim for systemic change, but you cannot make it happen. This tension isn't just strategic, it's personal. Left unmanaged, it produces paralysis or cynicism. Part II offers two psychological disciplines for navigating it.
+The ideas above are about the structure of impact. The next two are about what it feels like to pursue it.
 
 ---
 
 ## 6. Task Separation
 
 Distinguish what you control from what others control, and relate to each differently.
+
+Higher impact means less control. That's structural. But how do you respond to it?
 
 Alfred Adler's psychology offers a discipline:
 - **Your task:** What you control (quality of work, shipping, your own learning)
@@ -121,7 +129,7 @@ Design for intermediate feedback. Maintain work at multiple time horizons. Short
 
 # Part III: The Framework
 
-Parts I and II supplied the foundations; this part assembles them into a usable tool. First, five building blocks: a core definition of impact, a ladder of impact levels, the carrier problem, indirection, and pull vs. push. Then, the Seven Questions that operationalize them into a scoring rubric.
+This part turns the preceding ideas into a practical evaluation tool: five concepts that characterize how research creates change, followed by seven questions that use them as a scoring rubric.
 
 ---
 
@@ -200,7 +208,7 @@ Pushed work is the danger zone. You made something and you're hoping someone wil
 
 ## The Seven Questions
 
-The concepts above (carriers, indirection, pull) identify the forces that determine whether work reaches anyone. The seven questions below turn those concepts into a structured assessment. Each question targets a specific failure mode; together, they force you to articulate a complete theory of how your project creates change.
+The framework asks seven questions. Each is grounded in one or more of the ideas above.
 
 ### 1. Who will carry this up the ladder?
 
@@ -317,7 +325,7 @@ After scoring, classify on two dimensions:
 
 # Part IV: Applying the Framework
 
-Any scoring system invites misuse. Before you apply the framework above, two warnings about the limits of structured judgment.
+Two warnings before you use this.
 
 ---
 
